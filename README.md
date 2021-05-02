@@ -1,18 +1,18 @@
 ## Eu sou engenheiro de telecomunicações e estou aprendendo Ciência de dados entre outras técnicas correlatas para poder contribuir com a sociedade nesta nova área.
 
 
--  :light_rail: Atualmente eu trabalho na CBTU em João Pessoa (Empresa ferroviária de transporte de passageiros)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+-  :light_rail: Atualmente eu trabalho na CBTU em João Pessoa (Empresa ferroviária de transporte de passageiros).
+- 🌱 Estou aprendendo Python e um pouco de R.
+- 👯 Estou buscando colaborar com equipes que busquem trazer melhorias para a sociedade por meio da tecnologia.
+
+
+<!--
+**Daniel-ASG/Daniel-ASG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!--
-**Daniel-ASG/Daniel-ASG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 https://www.webfx.com/tools/emoji-cheat-sheet/
 -->

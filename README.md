@@ -1,7 +1,7 @@
-# Eu sou engenheiro de telecomunicações e estou aprendendo Ciência de dados entre outras técnicas correlatas para poder contribuir com a sociedade nesta nova área.
+## Eu sou engenheiro de telecomunicações e estou aprendendo Ciência de dados entre outras técnicas correlatas para poder contribuir com a sociedade nesta nova área.
 
 
--  Atualmente eu trabalho na CBTU em João Pessoa (Empresa ferroviária de transporte de passageiros)
+-  :light_rail: Atualmente eu trabalho na CBTU em João Pessoa (Empresa ferroviária de transporte de passageiros)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

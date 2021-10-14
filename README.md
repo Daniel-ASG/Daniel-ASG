@@ -2,7 +2,7 @@
 
 
 -  :light_rail: Atualmente eu trabalho como Engenheiro de Telecomunicações na CBTU em João Pessoa (Empresa ferroviária de transporte de passageiros).
-- 🌱 Estudanndo Python e R.
+- 🌱 Estudando Python e R.
 - 👯 Estou buscando colaborar com equipes que busquem trazer melhorias para a sociedade por meio da tecnologia.
 
 

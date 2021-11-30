@@ -3,7 +3,7 @@
 
 -  :light_rail: Currently I work as a Telecommunications Engineer at CBTU in João Pessoa (Railway company for passenger transport). 
 - 🌱 Studying Python and R.
-- 👯 I'm looking to collaborate with teams that seek to bring improvements to society through technology.
+- 👯 I'm looking for collaborate with teams that seek to bring improvements to society through technology.
 
 
 <!--

@@ -1,9 +1,9 @@
-## Eu sou engenheiro de telecomunicações e estou aprendendo Ciência de dados entre outras técnicas correlatas para poder contribuir com a sociedade nesta nova área.
+## I'm a telecommunications engineer and I'm learning Data Science and other related techniques in order to contribute to society in this new area.
 
 
--  :light_rail: Atualmente eu trabalho como Engenheiro de Telecomunicações na CBTU em João Pessoa (Empresa ferroviária de transporte de passageiros).
-- 🌱 Estudando Python e R.
-- 👯 Estou buscando colaborar com equipes que busquem trazer melhorias para a sociedade por meio da tecnologia.
+-  :light_rail: Currently I work as a Telecommunications Engineer at CBTU in João Pessoa (Railway company for passenger transport). 
+- 🌱 Studying Python and R.
+- 👯 I'm looking to collaborate with teams that seek to bring improvements to society through technology.
 
 
 <!--

@@ -1,4 +1,4 @@
-## I'm a telecommunications engineer and I'm learning Data Science and other related techniques in order to contribute to society in this new area.
+## I am a technology enthusiast and I'm learning Data Science and other related techniques in order to contribute to society in this new area.
 
 
 -  Currently I'm a master degree student at Ploytechnique Montréal in Québec, CA. 

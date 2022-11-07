@@ -1,8 +1,8 @@
 ## I'm a telecommunications engineer and I'm learning Data Science and other related techniques in order to contribute to society in this new area.
 
 
--  :light_rail: Currently I work as a Telecommunications Engineer at CBTU in João Pessoa (Railway company for passenger transport). 
-- 🌱 Studying Python and R.
+-  Currently I'm a master degree student at Ploytechnique Montréal in Québec, CA. 
+- 🌱 Studying Python, R, SQL and other related things.
 - 👯 I'm looking for collaborate with teams that seek to bring improvements to society through technology.
 
 

@@ -1,4 +1,4 @@
-## I am a technology enthusiast and I'm learning Data Science and other related techniques in order to contribute to society in this new area.
+## I am a passionate technology enthusiast, eager to apply emerging techniques such as data science and related ones, to solve a wide range of problems in our daily lives and contribute to society in this exciting field.
 
 
 -  Currently I'm a master degree student at UQÀM in Québec, CA. 

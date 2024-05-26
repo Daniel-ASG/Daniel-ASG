@@ -1,3 +1,5 @@
+# Hi, I am Daniel Gomes!
+
 ## I am a passionate technology enthusiast, eager to apply emerging techniques such as data science and related ones, to solve a wide range of problems in our daily lives and contribute to society in this exciting field.
 
 

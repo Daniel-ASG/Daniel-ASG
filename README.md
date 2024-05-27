@@ -14,11 +14,27 @@
 
 ## Tecnologies
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,git,github,latex,sqlite,html,c,cpp,matlab,arduino" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jupyter-light.svg" width="50"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Dark.svg" width="50"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/sqllite.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/c-light.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/cpp-light.svg" width="50"></td>
+      <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Dark.svg" width="50"></td>
+      <td><img src="https://github.com/onemarc/tech-icons/blob/main/icons/arduino.svg" width="50"></td>
+    </tr>
+  </table>
+</div>
+
   
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-ASG&theme=blue-green)](https://github.com/mariaeco/Daniel-ASG/)
 

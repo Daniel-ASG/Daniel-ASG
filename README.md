@@ -36,7 +36,7 @@
 </div>
 
   
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-ASG&theme=blue-green)](https://github.com/Daniel-ASG/Daniel-ASG/)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-ASG&&theme=blue-green&langs_count=7&hide=powershell,roff,cyton,xslt,cpp)](https://github.com/Daniel-ASG/Daniel-ASG/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Daniel-ASG&label=Profile%20views&color=0e75b6&style=flat" alt="Daniel-ASG" /> </p>
 <!--
 **Daniel-ASG/Daniel-ASG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
